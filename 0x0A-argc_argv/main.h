@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-int _putcher(char c);
-int _ato(char *s);
+int _putchar(char c);
+int _atoi(char *s);
 
 #endif
